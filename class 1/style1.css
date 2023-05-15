@@ -48,9 +48,14 @@ p{
             /* font-size:10px; */
             flex: 100%;
             max-width: 100%;
-           
-            
+                       
          }
        
+     .flex-container1 .sub img{
+            width: 300px;
+            height: 300px;
+            flex: 100%;
+            max-width: 100%;
+        }
 }
 
